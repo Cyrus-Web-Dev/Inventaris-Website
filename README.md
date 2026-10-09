@@ -1,6 +1,4 @@
-# Sistem Inventaris — Laravel (SELESAI, Fase 1–10)
-
-Migrasi penuh dari project PHP native (`inventaris_hardened_v13_FULL.zip`) ke Laravel 11 + Blade + Tailwind + SweetAlert2.
+# Sistem Inventaris — Laravel 
 
 ## Fitur yang sudah jadi
 - **Auth lengkap**: login (proteksi brute-force 5x/15menit & 20x/24jam), **verifikasi 2 Faktor (2FA) via email setiap login**, register + verifikasi email kode 6 digit, lupa/reset password (admin-mediated)
